@@ -1,0 +1,61 @@
+#activity{
+    display: flex;
+    gap: 50px;
+     height: 100px;
+    width: 100px;
+}
+#info1{
+     width: 100px;
+    height: 100px;
+}
+#info2{
+     width: 100px;
+    height: 100px;
+}
+#info3{
+     width: 100px;
+    height: 100px;
+}
+#Bio{
+    display: flex;
+    gap: 50px;
+     height: 100px;
+    width: 100px;
+}
+#Details{
+    width: 100px;
+    height: 100px;
+}
+#State{
+    width:100px;
+    height:100px;
+}
+#Language{
+    margin-top: 10px;
+}
+#Work{
+    display: flex;
+    gap: 60px;
+    height: 80px;
+    width: 80px;
+    margin-top: 20px;
+}
+
+#Speciality{
+    margin-top: 40px;
+    display: flex;
+    gap:20px;
+}
+
+#Theme{
+    height: 20px;
+    width: 200px;
+}
+#Theme1{
+    height: 20px;
+    width: 200px;
+}
+#Theme2{
+    height: 20px;
+    width: 200px;
+}
